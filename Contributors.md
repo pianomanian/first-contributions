@@ -9,6 +9,7 @@
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
 -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
+- [Ian McCarty] ** hope i did this right! **
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
 - [Patrick Chukwu](https://github.com/Patrick-Chukwu) **Cheers to the first of many contributions in the OS, community.**
 - Noo Dev **My first baby step of future contributions**
